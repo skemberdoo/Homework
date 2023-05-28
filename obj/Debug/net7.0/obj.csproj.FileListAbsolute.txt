@@ -1,0 +1,15 @@
+/Users/markalexsonabrina/obj/bin/Debug/net7.0/obj
+/Users/markalexsonabrina/obj/bin/Debug/net7.0/obj.deps.json
+/Users/markalexsonabrina/obj/bin/Debug/net7.0/obj.runtimeconfig.json
+/Users/markalexsonabrina/obj/bin/Debug/net7.0/obj.dll
+/Users/markalexsonabrina/obj/bin/Debug/net7.0/obj.pdb
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.csproj.AssemblyReference.cache
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.AssemblyInfoInputs.cache
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.AssemblyInfo.cs
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.csproj.CoreCompileInputs.cache
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.dll
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/refint/obj.dll
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.pdb
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/obj.genruntimeconfig.cache
+/Users/markalexsonabrina/obj/obj/Debug/net7.0/ref/obj.dll
